@@ -14,9 +14,9 @@ a[href*="javascript:markReviewed"]::after {
     -moz-border-radius: 5;
     border-radius: 5px;
     font-family: Arial;
-    color: #dddddd;
+    color: #ffffff;
     font-size: 16px;
-    background: #44242;
+    background: #f44242;
     padding: 15px 20px 15px 20px;
     text-decoration: none;
     display: inline-block;
