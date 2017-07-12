@@ -7,16 +7,16 @@ a[href*="javascript:markReviewed"] {
 }
 
 a[href*="javascript:markReviewed"]::after {
-    content: "Yo! Click here to confirm that you have read the information"; 
+    content: "Yoink! Click here to confirm that you have read the information"; 
     visibility: visible;
     position: relative;
     -webkit-border-radius: 5;
     -moz-border-radius: 5;
     border-radius: 5px;
     font-family: Arial;
-    color: #44242;
+    color: #dddddd;
     font-size: 16px;
-    background: #44242;
+    background: #dddddd;
     padding: 15px 20px 15px 20px;
     text-decoration: none;
     display: inline-block;
