@@ -47,7 +47,7 @@ a[href*="javascript:markUnreviewed"]::after {
 }
 
 a.moduleLink {
-    text-decoration: none; display: block; font-weight: bold; max-width: 10em; padding: .75em; border: 0px solid #000000; background-color: #c2dfff; border-radius: 10px;
+    text-decoration: none; display: block; font-weight: bold; max-width: 10em; padding: .75em; border: 1px solid #cccccc; background-color: #c2dfff; border-radius: 10px;
 }
 
 a.adult {
