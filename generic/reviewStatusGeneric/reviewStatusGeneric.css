@@ -49,3 +49,19 @@ a[href*="javascript:markUnreviewed"]::after {
 a.moduleLink {
     text-decoration: none; display: block; font-weight: bold; max-width: 10em; padding: .75em; border: 0px solid #000000; background-color: #c2dfff; border-radius: 10px;
 }
+
+a.adult {
+    background-color: #c2dfff; 
+}
+
+a.child {
+    background-color: #fec0c1; 
+}
+
+a.ld {
+    background-color: #ffffc0;
+}
+
+a.mh {
+    background-color: #ceffcd;
+}
